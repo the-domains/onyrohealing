@@ -21,7 +21,7 @@ color:
     - '#fefefe'
     - '#5aa048'
     - '#9beaf1'
-  brandStrength: 0.5
+  brandStrength: 0.8125
   lightness: 0.7899649494793266
   saturation: 0.11733066104352474
   rhythmicContrast: 0.5840104958042502
