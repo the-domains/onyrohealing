@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[OnyroHealing]]></title>
         <description><![CDATA[OnyroHealing]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/onyrohealing/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Apr 2016 19:12:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 07 Apr 2016 19:15:24 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/onyrohealing/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[My Story.]]></title>
+            <description><![CDATA[<article><h1>My Story.</h1><p></p></article>]]></description>
+            <link>https://thegrid.ai/onyrohealing/my-story/index.html</link>
+            <guid isPermaLink="false">4645851e-1aaf-4f2c-959e-dcd2bd116ff3</guid>
+            <pubDate>Thu, 07 Apr 2016 19:14:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Vibration and frequencies]]></title>
             <description><![CDATA[<article><h1>Vibration and frequencies</h1><p></p></article>]]></description>
-            <link>undefinedvibration-and-frequencies/index.html</link>
+            <link>https://thegrid.ai/onyrohealing/vibration-and-frequencies/index.html</link>
             <guid isPermaLink="false">c336ad87-9c6e-416e-9beb-028068306601</guid>
             <pubDate>Thu, 07 Apr 2016 19:11:29 GMT</pubDate>
         </item>
