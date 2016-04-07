@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[OnyroHealing]]></title>
+        <description><![CDATA[OnyroHealing]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 07 Apr 2016 19:12:13 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Vibration and frequencies]]></title>
+            <description><![CDATA[<article><h1>Vibration and frequencies</h1><p></p></article>]]></description>
+            <link>undefinedvibration-and-frequencies/index.html</link>
+            <guid isPermaLink="false">c336ad87-9c6e-416e-9beb-028068306601</guid>
+            <pubDate>Thu, 07 Apr 2016 19:11:29 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
