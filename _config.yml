@@ -1,0 +1,28 @@
+name: OnyroHealing
+favicon: null
+layout_spectrum: 0.7569776882883161
+typography_spectrum: 0.3340629921294749
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.32212486187927425
+  lightness: 0.7899649494793266
+  saturation: 0.11733066104352474
+  rhythmicContrast: 0.5840104958042502
+purpose: []
